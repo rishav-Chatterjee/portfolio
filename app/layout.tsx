@@ -41,16 +41,16 @@ export const metadata = {
   authors: [{ name: "Rishav Chatterjee" }],
   creator: "Rishav Chatterjee",
   robots: "index, follow",
-  metadataBase: new URL("https://your-portfolio-domain.com"),
+  metadataBase: new URL("https://portfolio-woad-zeta-y1qrwo0z1a.vercel.app/"),
   openGraph: {
     title: "Rishav Chatterjee — Full-Stack MERN & Next.js Developer",
     description:
       "Experienced 6+ years in building scalable, fast, and modern web apps using MERN, Next.js, TypeScript, Redux, WebSockets, and cloud technologies.",
-    url: "https://your-portfolio-domain.com",
+    url: "https://portfolio-woad-zeta-y1qrwo0z1a.vercel.app/",
     siteName: "Rishav Chatterjee Portfolio",
     images: [
       {
-        url: "https://your-portfolio-domain.com/og-image.jpg",
+        url: "https://portfolio-woad-zeta-y1qrwo0z1a.vercel.app/",
         width: 1200,
         height: 630,
         alt: "Rishav Chatterjee Portfolio Preview",
