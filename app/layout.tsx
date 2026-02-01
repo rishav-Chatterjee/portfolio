@@ -50,7 +50,7 @@ export const metadata = {
     siteName: "Rishav Chatterjee Portfolio",
     images: [
       {
-        url: "https://portfolio-woad-zeta-y1qrwo0z1a.vercel.app/",
+        url: "/Rishav-Chatterjee-Full-Stack-MERN-Next-js-Developer-Portfolio-02-01-2026_05_50_PM.png",
         width: 1200,
         height: 630,
         alt: "Rishav Chatterjee Portfolio Preview",
@@ -64,7 +64,7 @@ export const metadata = {
     title: "Rishav Chatterjee — Full-Stack & Next.js Developer",
     description:
       "Portfolio of a full-stack engineer specializing in MERN, Next.js, TypeScript, real-time apps, and scalable systems.",
-    images: ["https://your-portfolio-domain.com/og-image.jpg"],
+    images: ["/public/Rishav-Chatterjee-Full-Stack-MERN-Next-js-Developer-Portfolio-02-01-2026_05_50_PM.png"],
   },
 };
 
